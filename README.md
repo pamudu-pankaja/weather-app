@@ -16,7 +16,7 @@ Weather App is a simple Python project that helps users find weather information
 
 The user inputs a city. The program searches for city using an API. It displays the information about that city.
 
-💬API Used:
+💬API Used :
 
 This project was build using a free api called OpenWeahterMap : https://openweathermap.org
 
