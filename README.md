@@ -4,7 +4,7 @@
 
 Weather App is a simple Python project that helps users find weather information based on the city they have. It fetches infromation from an API and displays relevant options.
 
-🛠️ Features
+🛠️ Features : 
 
 ✅ Search for weather infromation by city
 
