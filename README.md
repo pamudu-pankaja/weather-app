@@ -18,7 +18,7 @@ The user inputs a city. The program searches for city using an API. It displays 
 
 💬API Used :
 
-This project was build using a free api called- [OpenWeahterMap](https://openweathermap.org)
+This project was build using a free api called- [OpenWeatherMap](https://openweathermap.org)
 
 🤝 Contributing :
 
